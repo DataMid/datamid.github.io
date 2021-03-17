@@ -3077,5 +3077,9 @@ input, select, textarea {
 			/* background-color: burlywood; */
 		}
 
+		.box.post {
+			height: 100%;
+		}
+
 
 
